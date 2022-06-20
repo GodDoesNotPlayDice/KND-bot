@@ -1,5 +1,5 @@
 import discord, os
-import src.functions.functions as fn
+import functions.functions as fn
 from dotenv import load_dotenv
 from discord.ext import commands
 load_dotenv()
